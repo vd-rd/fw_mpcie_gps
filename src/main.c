@@ -4,7 +4,6 @@
 #include "platform.h"
 
 int main (void){
-    clock_setup();
     while(1){};
     
     return 0;
